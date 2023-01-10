@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Passive income!"
-date:   2020-08-30 16:24:10 +0545
+date:   2023-01-01 16:24:10 +0545
 categories: misc
 ---
 
